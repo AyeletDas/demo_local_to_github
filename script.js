@@ -1,3 +1,3 @@
-function change2() {
-    console.log("change2");
+function funk2() {
+    console.log("hello");
 }
