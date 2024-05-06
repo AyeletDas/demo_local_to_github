@@ -1,3 +1,3 @@
-function sayHello(parms) {
-    console.log("Hello");
+function change2() {
+    console.log("change2");
 }
