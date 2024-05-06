@@ -1,3 +1,3 @@
-function change2() {
+function change4() {
     console.log("change2");
 }
